@@ -11,6 +11,8 @@ I do not own the rights for any of the mods contained here. They are meant to be
 - [Dynamic Lights](https://www.curseforge.com/minecraft/mc-mods/dynamic-lights)
 - [Ice and Fire](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons)
 - [Dissolution](https://www.curseforge.com/minecraft/mc-mods/requiem)
+- [Armor Underwear](https://www.curseforge.com/minecraft/mc-mods/armor-underwear-mod)
+- [Carrots Library](https://www.curseforge.com/minecraft/mc-mods/carrots-lib)
 - [AbyssalCraft](https://www.curseforge.com/minecraft/mc-mods/abyssalcraft)
 - [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)
 - [BetterNether](https://www.curseforge.com/minecraft/mc-mods/betternether)
