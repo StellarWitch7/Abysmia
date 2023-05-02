@@ -19,6 +19,7 @@ I do not own the rights for any of the mods contained here. They are meant to be
 - [BetterFps](https://www.curseforge.com/minecraft/mc-mods/betterfps)
 - [BetterPingDisplay](https://www.curseforge.com/minecraft/mc-mods/better-ping-display)
 - [Chisel](https://www.curseforge.com/minecraft/mc-mods/chisel)
+- [WaterSkin](curseforge.com/minecraft/mc-mods/waterskin)
 - [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)
 - [EndReborn](https://www.curseforge.com/minecraft/mc-mods/end-reborn)
 - [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)
