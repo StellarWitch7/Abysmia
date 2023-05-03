@@ -1,5 +1,5 @@
 # Abysmia
-I do not own the rights for any of the mods contained here. They are meant to be used with Forge 1.12.2. 
+Abysmia is a magics and fantasy modpack. I do not own the rights for any of the mods contained here. They are meant to be used with Forge 1.12.2. 
 
 # Included Mods
 - [Tough as Nails](https://www.curseforge.com/minecraft/mc-mods/tough-as-nails)
@@ -21,11 +21,11 @@ I do not own the rights for any of the mods contained here. They are meant to be
 - [BetterFps](https://www.curseforge.com/minecraft/mc-mods/betterfps)
 - [BetterPingDisplay](https://www.curseforge.com/minecraft/mc-mods/better-ping-display)
 - [Chisel](https://www.curseforge.com/minecraft/mc-mods/chisel)
-- [WaterSkin](curseforge.com/minecraft/mc-mods/waterskin)
+- [WaterSkin](https://www.curseforge.com/minecraft/mc-mods/waterskin)
 - [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)
 - [EndReborn](https://www.curseforge.com/minecraft/mc-mods/end-reborn)
 - [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)
-- [HardcoreDarkness](https://www.curseforge.com/minecraft/mc-mods/hardcore-darkness)
+- [Hardcore Darkness](https://www.curseforge.com/minecraft/mc-mods/hardcore-darkness)
 - [Ping](https://www.curseforge.com/minecraft/mc-mods/ping)
 - [ProgressiveBosses](https://www.curseforge.com/minecraft/mc-mods/progressive-bosses)
 - [BetterChat](https://www.curseforge.com/minecraft/mc-mods/better-chat)
