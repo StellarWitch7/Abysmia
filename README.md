@@ -4,6 +4,9 @@ Abysmia's goal is to provide a challenging experience with various magical and f
 # IMPORTANT
 Abysmia is still in early development. As such, expect unstability. If you don't mind taking the time, you can report any bugs as well as share your suggestions [here](https://github.com/StellarWitch7/Abysmia/issues). 
 
+# Downloads
+You can download Abysmia on [CurseForge](https://www.curseforge.com/minecraft/modpacks/abysmia), or simply find the .zip or .mrpack of the version you want in the /Releases folder. 
+
 # Other Info
 <details>
   <summary>Mod List</summary>
